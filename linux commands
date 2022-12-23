@@ -1,0 +1,15 @@
+#linux commands:
+cd ..// to change directory
+pwd // current directory
+cd mkdir// to create directory
+ls// list all files
+to create two files a and b having two different languages or code:
+cd a// python file
+nano a.py
+write the code
+ls
+cd b// java file
+nano main.java
+write code
+ls
+
